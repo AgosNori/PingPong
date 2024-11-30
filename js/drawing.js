@@ -1,4 +1,3 @@
-
 // obtener el canvas
 const canvas = document.getElementById("miCanvas");
 canvas.style.backgroundColor = "#000000";
